@@ -1,0 +1,1741 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"Rou",
+				"Route::post\tBasic Post Route."
+			],
+			[
+				"Route",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"object-",
+				"object-fit\tproperty"
+			],
+			[
+				"Auth",
+				"Auth::user\tGet the currently authenticated user."
+			],
+			[
+				"Cart",
+				"CartItem\tCartItem"
+			],
+			[
+				"stor",
+				"store_id"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"func",
+				"function_without_name"
+			],
+			[
+				"banner",
+				"banner7-img"
+			],
+			[
+				"asse",
+				"asset\tblade-asset"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"styl",
+				"style\tAttr"
+			],
+			[
+				"isse",
+				"isset"
+			],
+			[
+				"cont",
+				"contain\tobject-fit"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"feat",
+				"feat_products"
+			],
+			[
+				"banner5",
+				"banner5-img"
+			],
+			[
+				"banner-",
+				"banner5-title"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"Pro",
+				"Product\tProduct"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"ass",
+				"asset\tblade-asset"
+			],
+			[
+				"subc",
+				"subcategory"
+			],
+			[
+				"script",
+				"scripts \tin layouts.site"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"catego",
+				"category"
+			],
+			[
+				"categor",
+				"category_id"
+			],
+			[
+				"pull",
+				"pull-right \tBootstrap 3 Class"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"col-",
+				"col-lg-6"
+			],
+			[
+				"backgro",
+				"background-position\tproperty"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"input",
+				"inputh\tinput - hidden"
+			],
+			[
+				"form",
+				"form\tTag"
+			],
+			[
+				"button",
+				"button\t<button>"
+			],
+			[
+				"titl",
+				"title \tin layouts.app"
+			],
+			[
+				"btn-s",
+				"btn-xs \tBootstrap 3 Class"
+			],
+			[
+				"btn-",
+				"btn-info \tBootstrap 3 Class"
+			],
+			[
+				"tabl",
+				"table-striped \tBootstrap 3 Class"
+			],
+			[
+				"main",
+				"main_img"
+			],
+			[
+				"m",
+				"media-object \tBootstrap 3 Class"
+			],
+			[
+				"Produ",
+				"ProductsTableSeeder\tProductsTableSeeder"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"ch",
+				"checked\tAttr"
+			],
+			[
+				"pane",
+				"panel-body"
+			],
+			[
+				"panel-",
+				"panel-default"
+			],
+			[
+				"lab",
+				"label\t<label>"
+			],
+			[
+				"labe",
+				"label\t<label>"
+			],
+			[
+				"scri",
+				"scripts \tin layouts.app"
+			],
+			[
+				"ti",
+				"title \tin layouts.app"
+			],
+			[
+				"col-md-off",
+				"col-md-offset-2 \tBootstrap 3 Class"
+			],
+			[
+				"col-lg-off",
+				"col-lg-offset-3 \tBootstrap 3 Class"
+			],
+			[
+				"Admin",
+				"Admin\\UserController@create"
+			],
+			[
+				"ri",
+				"float-right \tBootstrap 4.4"
+			],
+			[
+				"mb",
+				"mb-5 \tBootstrap 4.4"
+			],
+			[
+				"off",
+				"offset-lg-3 \tBootstrap 4.4"
+			],
+			[
+				"offset-l",
+				"offset-lg-4 \tBootstrap 4.4"
+			],
+			[
+				"align-con",
+				"align-content-center \tBootstrap 4.4"
+			],
+			[
+				"align-se",
+				"align-self-center \tBootstrap 4.4"
+			],
+			[
+				"bg-w",
+				"bg-white \tBootstrap 4.4"
+			],
+			[
+				"of",
+				"offset-4 \tBootstrap 4.4"
+			],
+			[
+				"span",
+				"colspan\tAttr"
+			],
+			[
+				"scrip",
+				"script\tTag"
+			],
+			[
+				"fore",
+				"foreach\tblade-foreach"
+			],
+			[
+				"badg",
+				"badge-primary \tBootstrap 4.4"
+			],
+			[
+				"ba",
+				"badge"
+			],
+			[
+				"asset",
+				"asset"
+			],
+			[
+				"auth",
+				"layouts/auth.admin.blade.php \tBlade Autocomplete"
+			],
+			[
+				"admin",
+				"admin.dashboard"
+			],
+			[
+				"con",
+				"content \tin layouts.admin"
+			],
+			[
+				"tit",
+				"title \tin layouts.admin"
+			],
+			[
+				"howit",
+				"howitworks_page_content"
+			],
+			[
+				"box-",
+				"box-body"
+			],
+			[
+				"url",
+				"url()\tbackground-image"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"cover",
+				"cover_image"
+			],
+			[
+				"box",
+				"box-primary"
+			],
+			[
+				"profile",
+				"profile"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"email",
+				"email_verified_at"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"Store",
+				"Storage::append\tInsert content at the end of a file"
+			],
+			[
+				"S",
+				"Session::put\tStore an Item in the Session"
+			],
+			[
+				"inpu",
+				"inputh\tinput - hidden"
+			],
+			[
+				"in",
+				"inputh\tinput - hidden"
+			],
+			[
+				"store",
+				"store-profile"
+			],
+			[
+				"Admn",
+				"Admin\\AdminUserController@create"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"btn",
+				"btn-info \tBootstrap 4.3 Class"
+			],
+			[
+				"Hash",
+				"Hash::make\tHash the given value."
+			],
+			[
+				"rol",
+				"role_id"
+			],
+			[
+				"label",
+				"label\t<label>"
+			],
+			[
+				"Admi",
+				"Admin\\AdminUserController@create"
+			],
+			[
+				"Adm",
+				"Administradores"
+			],
+			[
+				"label-warning",
+				"label.label-warning"
+			],
+			[
+				"pull-r",
+				"pull-right-container"
+			],
+			[
+				"butt",
+				"button"
+			],
+			[
+				"tbod",
+				"tbody\tTag"
+			],
+			[
+				"thead",
+				"thead\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"list-sty",
+				"list-style-type\tproperty"
+			],
+			[
+				"contact",
+				"contact-help.txt"
+			],
+			[
+				"view",
+				"view()\tmixed"
+			],
+			[
+				"tfoo",
+				"tfoot\tTag"
+			],
+			[
+				"thea",
+				"thead\tTag"
+			],
+			[
+				"table",
+				"table\tTag"
+			],
+			[
+				"float-",
+				"float-right \tBootstrap 4.3 Class"
+			],
+			[
+				"Application",
+				"ApplicationReceived"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"bad",
+				"badge-success \tBootstrap 4.3 Class"
+			],
+			[
+				"worker",
+				"worker.jobs"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"bt",
+				"btn"
+			],
+			[
+				"objec",
+				"object-fit\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"tbo",
+				"tbody\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/api.php",
+			"settings":
+			{
+				"buffer_size": 929,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/UserController.php",
+			"settings":
+			{
+				"buffer_size": 184,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/PaymentController.php",
+			"settings":
+			{
+				"buffer_size": 744,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Jobs/GetCurrentUSD.php",
+			"settings":
+			{
+				"buffer_size": 935,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 901,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 810,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Turn Execute On Save On"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"material",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 253.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dario/Dev/Test2x3Global",
+		"/home/dario/Dev/Test2x3Global/app",
+		"/home/dario/Dev/Test2x3Global/app/Http",
+		"/home/dario/Dev/Test2x3Global/app/Http/Controllers",
+		"/home/dario/Dev/Test2x3Global/app/Jobs",
+		"/home/dario/Dev/Test2x3Global/config",
+		"/home/dario/Dev/Test2x3Global/database",
+		"/home/dario/Dev/Test2x3Global/database/migrations",
+		"/home/dario/Dev/Test2x3Global/database/seeds",
+		"/home/dario/Dev/Test2x3Global/resources",
+		"/home/dario/Dev/Test2x3Global/resources/views",
+		"/home/dario/Dev/Test2x3Global/routes"
+	],
+	"file_history":
+	[
+		"/home/dario/Dev/Test2x3Global/database/seeds/PaymentsTableSeeder.php",
+		"/home/dario/Dev/Test2x3Global/app/Payment.php",
+		"/home/dario/Dev/Test2x3Global/database/migrations/2020_03_04_143548_create_payments_table.php",
+		"/home/dario/Dev/Test2x3Global/database/seeds/DatabaseSeeder.php",
+		"/home/dario/Dev/Test2x3Global/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/dario/Dev/Test2x3Global/database/seeds/UsersTableSeeder.php",
+		"/home/dario/Dev/Test2x3Global/app/User.php",
+		"/home/dario/Dev/Test2x3Global/routes/web.php",
+		"/home/dario/Dev/pyme/database/seeds/UsersTableSeeder.php",
+		"/home/dario/Dev/pyme/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/dario/Dev/Test2x3Global/app/Http/Controllers/ClientController.php",
+		"/home/dario/Dev/Test2x3Global/database/migrations/2020_03_04_143431_create_clients_table.php",
+		"/home/dario/Dev/Test2x3Global/resources/views/welcome.blade.php",
+		"/home/dario/Dev/Test2x3Global/.env",
+		"/home/dario/Dev/Test2x3Global/app/Http/Controllers/HomeController.php",
+		"/home/dario/Dev/pyme/app/CartItem.php",
+		"/home/dario/Dev/pyme/app/User.php",
+		"/home/dario/Dev/pyme/resources/views/layouts/app.blade.php",
+		"/home/dario/Dev/pyme/resources/views/layouts/site.blade.php",
+		"/home/dario/Dev/pyme/resources/views/cart.blade.php",
+		"/home/dario/Dev/pyme/resources/views/welcome.blade.php",
+		"/home/dario/Dev/pyme/app/Http/Controllers/CartController.php",
+		"/home/dario/Dev/pyme/routes/web.php",
+		"/home/dario/Escritorio/Pyme Rodrigo/tareas.txt",
+		"/home/dario/Escritorio/Pyme Rodrigo/notas.txt",
+		"/home/dario/Dev/pyme/public/site/css/style.css",
+		"/home/dario/www/simen/index4-shoppingcart.html",
+		"/home/dario/Dev/pyme/database/migrations/2020_02_14_000832_create_cart_items_table.php",
+		"/home/dario/Dev/pyme/app/Http/Controllers/SiteController.php",
+		"/home/dario/Dev/pyme/resources/views/contact.blade.php",
+		"/home/dario/www/simen/index4-contact-us.html",
+		"/home/dario/www/simen/index4-detail.html",
+		"/home/dario/Dev/pyme/resources/views/product-list.blade.php",
+		"/home/dario/Dev/pyme/resources/views/detail.blade.php",
+		"/home/dario/Dev/pyme/database/migrations/2020_02_14_000432_create_products_table.php",
+		"/home/dario/Dev/pyme/database/seeds/ProductsTableSeeder.php",
+		"/home/dario/Dev/pyme/resources/views/product-detail.blade.php",
+		"/home/dario/Dev/pyme/app/Category.php",
+		"/home/dario/Dev/pyme/app/Product.php",
+		"/home/dario/Dev/pyme/database/seeds/CategoriesTableSeeder.php",
+		"/home/dario/Dev/pyme/database/migrations/2020_02_14_000410_create_categories_table.php",
+		"/home/dario/Dev/pyme/storage/app/listing-page.json",
+		"/home/dario/www/simen/index4-listing-grid.html",
+		"/home/dario/Dev/pyme/public/site/css/bootstrap.css",
+		"/home/dario/Dev/pyme/public/site/js/list-grid.js",
+		"/home/dario/Dev/pyme/resources/views/partials/slide.blade.php",
+		"/home/dario/Dev/pyme/resources/views/product-edit.blade.php",
+		"/home/dario/Dev/pyme/resources/views/product-create.blade.php",
+		"/home/dario/Dev/pyme/resources/views/products.blade.php",
+		"/home/dario/Dev/pyme/app/Http/Controllers/Admin/UserController.php",
+		"/home/dario/Dev/pyme/app/Http/Controllers/ProductController.php",
+		"/home/dario/Dev/cinco-estrellas/resources/views/admin/users.blade.php",
+		"/home/dario/Dev/cinco-estrellas/resources/views/admin/services.blade.php",
+		"/home/dario/Dev/cinco-estrellas/resources/views/layouts/admin.blade.php",
+		"/home/dario/Dev/cinco-estrellas/resources/views/home.blade.php",
+		"/home/dario/Dev/cinco-estrellas/app/Http/Controllers/HomeController.php",
+		"/home/dario/Dev/pyme/app/Http/Controllers/StoreController.php",
+		"/home/dario/Dev/pyme/pyme_2020-02-17.sql",
+		"/home/dario/Dev/pyme/app/Providers/AppServiceProvider.php",
+		"/home/dario/Dev/pyme/database/migrations/2019_08_19_000000_create_failed_jobs_table.php",
+		"/home/dario/Dev/pyme/database/migrations/2019_12_30_115019_create_roles_table.php",
+		"/home/dario/Dev/pyme/database/migrations/2019_12_30_121118_create_permissions_table.php",
+		"/home/dario/Dev/pyme/database/migrations/2020_01_21_214855_create_role_user_table.php",
+		"/home/dario/Dev/pyme/database/migrations/2020_01_23_140633_create_admins_table.php",
+		"/home/dario/Dev/pyme/database/migrations/2020_01_23_150411_create_admin_profiles_table.php",
+		"/home/dario/Dev/pyme/database/migrations/2020_01_23_150439_create_user_profiles_table.php",
+		"/home/dario/Dev/pyme/database/migrations/2020_02_14_000400_create_stores_table.php",
+		"/home/dario/Dev/pyme/database/migrations/2020_02_14_000502_create_product_rates_table.php",
+		"/home/dario/Dev/pyme/database/migrations/2020_02_14_000518_create_orders_table.php",
+		"/home/dario/Dev/pyme/database/migrations/2020_02_14_000545_create_order_items_table.php",
+		"/home/dario/Dev/pyme/database/migrations/2020_02_14_000629_create_invoices_table.php",
+		"/home/dario/Dev/pyme/database/migrations/2020_02_14_000639_create_invoice_items_table.php",
+		"/home/dario/Dev/pyme/resources/views/user-products.blade.php",
+		"/home/dario/Dev/pyme/.env-server",
+		"/home/dario/Dev/pyme/resources/views/user-store.blade.php",
+		"/home/dario/Dev/pyme/database/seeds/DatabaseSeeder.php",
+		"/home/dario/Dev/pyme/database/seeds/StoresTableSeeder.php",
+		"/home/dario/Dev/pyme/resources/views/user-dashboard.blade.php",
+		"/home/dario/Dev/pyme/app/Store.php",
+		"/home/dario/Dev/pyme/app/Admin.php",
+		"/home/dario/www/promocionalchile/database/migrations/2019_02_22_130340_create_categories_table.php",
+		"/home/dario/www/promocionalchile/database/migrations/2019_02_22_130347_create_products_table.php",
+		"/home/dario/Dev/pyme/node_modules/serve-index/public/style.css",
+		"/home/dario/Dev/pyme/app/Http/Controllers/ShipmentController.php",
+		"/home/dario/Dev/pyme/app/Http/Controllers/OrderController.php",
+		"/home/dario/Dev/pyme/resources/views/user-sales.blade.php",
+		"/home/dario/Dev/pyme/app/Http/Controllers/SaleController.php",
+		"/home/dario/Dev/pyme/app/Http/Controllers/ItemController.php",
+		"/home/dario/Dev/pyme/resources/views/user-shipments.blade.php",
+		"/home/dario/Dev/pyme/resources/views/user-items.blade.php",
+		"/home/dario/Dev/pyme/resources/views/store-dashboard.blade.php",
+		"/home/dario/Dev/pyme/resources/views/items.blade.php",
+		"/home/dario/Dev/pyme/app/Http/Controllers/HomeController.php",
+		"/home/dario/Dev/pyme/app/UserProfile.php",
+		"/home/dario/Dev/pyme/resources/views/layouts/_app.blade.php",
+		"/home/dario/Dev/pyme/resources/views/partials/user-dashboard-aside.blade.php",
+		"/home/dario/Dev/pyme/app/Http/Controllers/Auth/VerificationController.php",
+		"/home/dario/Dev/pyme/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/dario/Dev/pyme/resources/views/auth/verify.blade.php",
+		"/home/dario/Dev/pyme/resources/views/auth/register.blade.php",
+		"/home/dario/Dev/pyme/resources/views/auth/login.blade.php",
+		"/home/dario/Dev/pyme/vendor/laravel/framework/src/Illuminate/Foundation/Auth/VerifiesEmails.php",
+		"/home/dario/Dev/pyme/vendor/laravel/framework/src/Illuminate/Auth/MustVerifyEmail.php",
+		"/home/dario/Dev/pyme/resources/views/layouts/auth.blade.php",
+		"/home/dario/Dev/pyme/public/js/app.js",
+		"/home/dario/Dev/pyme/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+		"/home/dario/Dev/pyme/resources/views/admin/users.blade.php",
+		"/home/dario/Dev/pyme/resources/views/admin/user-detail.blade.php",
+		"/home/dario/Escritorio/Pyme Rodrigo/Requerimientos.txt",
+		"/home/dario/Dev/pyme/resources/views/layouts/admin.blade.php",
+		"/home/dario/Dev/pyme/app/Http/Controllers/Admin/AdminController.php",
+		"/home/dario/Dev/pyme/resources/views/admin/admins.blade.php",
+		"/home/dario/Dev/pyme/resources/views/admin/admin-create.blade.php",
+		"/home/dario/Dev/cinco-estrellas/resources/views/admin/admins.blade.php",
+		"/home/dario/www/bracket/template/app/form-layouts.html",
+		"/home/dario/Dev/pyme/app/AdminProfile.php",
+		"/home/dario/Dev/pyme/public/backend/css/bracket.css",
+		"/home/dario/Dev/pyme/resources/views/admin/admin-show.blade.php",
+		"/home/dario/Dev/pyme/resources/views/admin/dashboard.blade.php",
+		"/home/dario/Dev/pyme/node_modules/bootstrap/dist/css/bootstrap.css",
+		"/home/dario/www/bracket/template/app/table-datatable.html",
+		"/home/dario/Dev/pyme/resources/views/admin/admin-edit.blade.php",
+		"/home/dario/Dev/pyme/app/Role.php",
+		"/home/dario/www/bracket/template/app/accordion.html",
+		"/home/dario/Dev/pyme/app/Http/Controllers/Admin/DashboardController.php",
+		"/home/dario/Dev/pyme/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/home/dario/Dev/pyme/app/Exceptions/Handler.php",
+		"/home/dario/Dev/pyme/resources/views/layouts/_auth.blade.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"/home/dario/Dev/pyme/public",
+			"/home/dario/Dev/cinco-estrellas/app,/home/dario/Dev/cinco-estrellas/resources",
+			"/home/dario/Dev/cinco-estrellas/resources/views",
+			"/home/dario/Dev/cinco-estrellas/resources/views/admin",
+			"/home/dario/Dev/cinco-estrellas/resources,/home/dario/Dev/cinco-estrellas/public/adminlte",
+			"/home/dario/Dev/cinco-estrellas/resources",
+			"/home/dario/Dev/cinco-estrellas/app,/home/dario/Dev/cinco-estrellas/config,/home/dario/Dev/cinco-estrellas/database,/home/dario/Dev/cinco-estrellas/bootstrap",
+			"/home/dario/Dev/cinco-estrellas/app,/home/dario/Dev/cinco-estrellas/config",
+			"/home/dario/Dev/cinco-estrellas/app",
+			"/home/dario/Dev/cinco-estrellas/resources/views",
+			"/home/dario/Dev/cinco-estrellas/resources/views/auth"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rand(100000, 999999)",
+			"\n\t\t\t[\n\t\t\t\t'uuid' => (string) Str::uuid(), \n\t\t\t\t'payment_date' => Carbon::now(), //->toDateTimeString()\n\t\t\t\t'expires_at' => Carbon::now()->addDays(7), \n\t\t\t\t'status' => 'paid', \n\t\t\t\t'user_id' => rand(1, 7), \n\t\t\t\t'amount' => rand(100000, 999999);\n\t\t\t\t'clp_usd' => rand(800, 899), \n\t\t\t],",
+			"rand(800, 899)",
+			"rut",
+			"$item",
+			"src=\"",
+			"h1",
+			"Funiture",
+			"furniture",
+			"sns-products-container",
+			"slider-range",
+			"fillter",
+			"filter",
+			"search",
+			"\n\t\t//",
+			"label",
+			"select",
+			"255",
+			"bigint",
+			"h5",
+			"category_id",
+			"store_id",
+			"null",
+			"i {",
+			"top: 8",
+			"i ",
+			"i {",
+			"src",
+			"href",
+			"h3",
+			"src",
+			"href",
+			" = ",
+			" =",
+			"nationality",
+			"phone_number",
+			"admin",
+			"button",
+			"select2-a",
+			"window.",
+			"class",
+			"Option",
+			"h3",
+			"Login",
+			"** ",
+			"index4.html",
+			"active",
+			"src=\"",
+			"href=\"",
+			"src=\"",
+			"href=\"",
+			"** ",
+			"../",
+			"src",
+			"BREADCRUMBS",
+			"HEADER",
+			"cta1_image",
+			"image",
+			"cover_image",
+			"name=",
+			"cta1_image",
+			"name=",
+			"title",
+			"bg",
+			"bg1",
+			"bg-image",
+			"howto",
+			"full_name",
+			" (alias)",
+			"Example",
+			"Trámites",
+			"danger",
+			"M103",
+			"M102",
+			"notificacion",
+			"add",
+			"form-control",
+			"span",
+			"crear serv",
+			"'2019-10-07 11:15:04'",
+			"= ",
+			"=",
+			"output",
+			"profile",
+			"M102",
+			"worker_paid",
+			"admin.admins",
+			"button",
+			"admin.services",
+			"privacy_policy",
+			"contact",
+			"edit",
+			"coment",
+			"Trabajador",
+			"Tranajador",
+			"tranajador",
+			".DataTable(",
+			"edit",
+			"badge",
+			"tranajadores",
+			"=\"\">\n",
+			"h3",
+			"li",
+			"\t\t\t\t\t\t\t\t\t\t\t\t\n",
+			"facebook",
+			"exampleInputPassword1",
+			"privacy_policy_text",
+			"privacy_policy",
+			".invoice",
+			".invoice ",
+			"admin.user.edit",
+			"admin.users.new",
+			"Dashboard",
+			"line-chart",
+			"Alexander Pierce",
+			"#f39c12",
+			"M105",
+			"service_page_content",
+			"main_page_content",
+			"M101",
+			"M106",
+			"M102",
+			"TODO: ",
+			"store",
+			"adddays",
+			"TODO:",
+			"worker",
+			"$Auth::user()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"trabajador"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/api.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								817,
+								817
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/PaymentController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								433
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Jobs/GetCurrentUSD.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 935,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								773,
+								773
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 339.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								719,
+								719
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test-2x3-global.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PaymentCon",
+				"app/Http/Controllers/PaymentController.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"app.bl",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"CartControll",
+				"app/Http/Controllers/CartController.php"
+			],
+			[
+				"CartItem",
+				"app/CartItem.php"
+			],
+			[
+				"User",
+				"app/User.php"
+			],
+			[
+				"site.bl",
+				"resources/views/layouts/site.blade.php"
+			],
+			[
+				"create_cart_",
+				"database/migrations/2020_02_14_000832_create_cart_items_table.php"
+			],
+			[
+				"create_cart",
+				"database/migrations/2020_02_14_000832_create_cart_items_table.php"
+			],
+			[
+				"cartitems_t",
+				"database/migrations/2020_02_14_000832_create_cart_items_table.php"
+			],
+			[
+				"seeds/",
+				"database/seeds/ProductsTableSeeder.php"
+			],
+			[
+				"products_",
+				"database/migrations/2020_02_14_000432_create_products_table.php"
+			],
+			[
+				"seeds/categ",
+				"database/seeds/CategoriesTableSeeder.php"
+			],
+			[
+				"categories_t",
+				"database/migrations/2020_02_14_000410_create_categories_table.php"
+			],
+			[
+				"seeds/Prod",
+				"database/seeds/ProductsTableSeeder.php"
+			],
+			[
+				"Product.ph",
+				"app/Product.php"
+			],
+			[
+				"seeds/cate",
+				"database/seeds/CategoriesTableSeeder.php"
+			],
+			[
+				"Category",
+				"app/Category.php"
+			],
+			[
+				"welcome",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"products_t",
+				"database/migrations/2020_02_14_000432_create_products_table.php"
+			],
+			[
+				"UserCon",
+				"app/Http/Controllers/Admin/UserController.php"
+			],
+			[
+				"create_prod",
+				"database/migrations/2020_02_14_000432_create_products_table.php"
+			],
+			[
+				"style",
+				"public/site/css/style.css"
+			],
+			[
+				"product-",
+				"resources/views/product-create.blade.php"
+			],
+			[
+				"create_produ",
+				"database/migrations/2020_02_14_000432_create_products_table.php"
+			],
+			[
+				"products",
+				"resources/views/products.blade.php"
+			],
+			[
+				"StoreC",
+				"app/Http/Controllers/StoreController.php"
+			],
+			[
+				"ProductControll",
+				"app/Http/Controllers/ProductController.php"
+			],
+			[
+				"user-products",
+				"resources/views/user-products.blade.php"
+			],
+			[
+				"ProductController",
+				"app/Http/Controllers/ProductController.php"
+			],
+			[
+				"user-store",
+				"resources/views/user-store.blade.php"
+			],
+			[
+				"stores_t",
+				"database/migrations/2020_02_14_000400_create_stores_table.php"
+			],
+			[
+				"categories_T",
+				"database/migrations/2020_02_14_000410_create_categories_table.php"
+			],
+			[
+				"styl",
+				"public/site/css/style.css"
+			],
+			[
+				"ItemControll",
+				"app/Http/Controllers/ItemController.php"
+			],
+			[
+				"store-dashboard",
+				"resources/views/store-dashboard.blade.php"
+			],
+			[
+				"StoreController",
+				"app/Http/Controllers/StoreController.php"
+			],
+			[
+				"Store",
+				"app/Store.php"
+			],
+			[
+				"UserProf",
+				"app/UserProfile.php"
+			],
+			[
+				"UserProfile",
+				"app/UserProfile.php"
+			],
+			[
+				"home.bl",
+				"resources/views/home.blade.php"
+			],
+			[
+				"HomeControll",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"auth/log",
+				"resources/views/auth/login.blade.php"
+			],
+			[
+				"auth/",
+				"resources/views/auth/register.blade.php"
+			],
+			[
+				"RegisterContro",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"create_users",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"create_user",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"create_user_",
+				"database/migrations/2020_01_23_150439_create_user_profiles_table.php"
+			],
+			[
+				"UserPro",
+				"app/UserProfile.php"
+			],
+			[
+				"admin",
+				"resources/views/layouts/admin.blade.php"
+			],
+			[
+				"create_admin_",
+				"database/migrations/2020_01_23_150411_create_admin_profiles_table.php"
+			],
+			[
+				"create_admins",
+				"database/migrations/2020_01_23_140633_create_admins_table.php"
+			],
+			[
+				"create_admin",
+				"database/migrations/2020_01_23_150411_create_admin_profiles_table.php"
+			],
+			[
+				"create_adm",
+				"database/migrations/2020_01_23_150411_create_admin_profiles_table.php"
+			],
+			[
+				"AdminProfi",
+				"app/AdminProfile.php"
+			],
+			[
+				"Exceptions/Handler.php",
+				"app/Exceptions/Handler.php"
+			],
+			[
+				"site/css/bootstrap.css",
+				"public/site/css/bootstrap.css"
+			],
+			[
+				"dashboar",
+				"resources/views/admin/dashboard.blade.php"
+			],
+			[
+				"Admin",
+				"app/Admin.php"
+			],
+			[
+				"main-page-content",
+				"resources/views/admin/main-page-content.blade.php"
+			],
+			[
+				"maker",
+				"public/ajax/marker.json"
+			],
+			[
+				"users.bl",
+				"resources/views/admin/users.blade.php"
+			],
+			[
+				"create_workers",
+				"database/migrations/2019_08_13_103551_create_workers_table.php"
+			],
+			[
+				"user.php",
+				"app/User.php"
+			],
+			[
+				"Service.php",
+				"app/Service.php"
+			],
+			[
+				"service_t",
+				"database/migrations/2019_08_13_103747_create_services_table.php"
+			],
+			[
+				"Service",
+				"app/Service.php"
+			],
+			[
+				"services_t",
+				"database/migrations/2019_08_13_103747_create_services_table.php"
+			],
+			[
+				"WorkerProfi",
+				"app/WorkerProfile.php"
+			],
+			[
+				"worker_prof",
+				"database/migrations/2019_08_15_111657_create_worker_profiles_table.php"
+			],
+			[
+				"WorkerProf",
+				"app/WorkerProfile.php"
+			],
+			[
+				"Worker",
+				"app/Worker.php"
+			],
+			[
+				"WebPay",
+				"app/Http/Controllers/WebPayController.php"
+			],
+			[
+				"ServiceOrderControll",
+				"app/Http/Controllers/ServiceOrderController.php"
+			],
+			[
+				"worker_profil",
+				"database/migrations/2019_08_15_111657_create_worker_profiles_table.php"
+			],
+			[
+				"workers_",
+				"database/migrations/2019_08_13_103551_create_workers_table.php"
+			],
+			[
+				"client_",
+				"database/migrations/2019_08_13_103650_create_client_profiles_table.php"
+			],
+			[
+				"users_t",
+				"database/migrations/2019_08_13_100000_create_users_table.php"
+			],
+			[
+				"worker-menu",
+				"resources/views/partials/worker-panel-menu.blade.php"
+			],
+			[
+				"client-",
+				"resources/views/partials/client-panel-menu.blade.php"
+			],
+			[
+				"worker/job",
+				"app/Http/Controllers/Worker/JobController.php"
+			],
+			[
+				"dashboard",
+				"resources/views/worker/dashboard.blade.php"
+			],
+			[
+				"worker_profiles",
+				"database/migrations/2019_08_15_111657_create_worker_profiles_table.php"
+			],
+			[
+				"worker_profiles_t",
+				"database/migrations/2019_08_15_111657_create_worker_profiles_table.php"
+			],
+			[
+				"worker/Dashboard",
+				"app/Http/Controllers/Worker/DashboardController.php"
+			],
+			[
+				"Dashboard",
+				"app/Http/Controllers/Admin/DashboardController.php"
+			],
+			[
+				"services_T",
+				"database/migrations/2019_08_13_103747_create_services_table.php"
+			],
+			[
+				"service_",
+				"database/migrations/2019_09_20_105846_create_service_worker_table.php"
+			],
+			[
+				"worker/service",
+				"resources/views/worker/service-create.blade.php"
+			],
+			[
+				"webpay-return",
+				"resources/views/webpay-return.blade.php"
+			],
+			[
+				"payments_t",
+				"database/migrations/2019_10_14_120809_create_payments_table.php"
+			],
+			[
+				"payments.bl",
+				"resources/views/payments.blade.php"
+			],
+			[
+				"payments_",
+				"database/migrations/2019_10_14_120809_create_payments_table.php"
+			],
+			[
+				"payment-detail",
+				"resources/views/payment-detail.blade.php"
+			],
+			[
+				"ServiceOrder",
+				"app/ServiceOrder.php"
+			],
+			[
+				"orders",
+				"resources/views/orders.blade.php"
+			],
+			[
+				"Payment",
+				"app/Payment.php"
+			],
+			[
+				"font",
+				"public/fonts/fontawesome-webfont.svg"
+			],
+			[
+				"order-e",
+				"resources/views/order-edit.blade.php"
+			],
+			[
+				"payment",
+				"resources/views/payments.blade.php"
+			],
+			[
+				"payments_ta",
+				"database/migrations/2019_10_14_120809_create_payments_table.php"
+			],
+			[
+				"messages.",
+				"resources/views/messages.blade.php"
+			],
+			[
+				"messages.bl",
+				"resources/views/messages.blade.php"
+			],
+			[
+				"WorkerPaym",
+				"app/WorkerPayment.php"
+			],
+			[
+				"WorkerPay",
+				"app/WorkerPayment.php"
+			],
+			[
+				"worker_paymnts",
+				"database/migrations/2019_11_08_133904_create_worker_payments_table.php"
+			],
+			[
+				"worker-payment",
+				"resources/views/admin/worker-payment.blade.php"
+			],
+			[
+				"admin/worker-p",
+				"resources/views/admin/worker-payments.blade.php"
+			],
+			[
+				"worker_payment",
+				"database/migrations/2019_11_08_133904_create_worker_payments_table.php"
+			],
+			[
+				"payment_T",
+				"database/migrations/2019_10_14_120809_create_payments_table.php"
+			],
+			[
+				"worker_pay",
+				"database/migrations/2019_11_08_133904_create_worker_payments_table.php"
+			],
+			[
+				"worker_paymen",
+				"database/migrations/2019_11_08_133904_create_worker_payments_table.php"
+			],
+			[
+				"WorkerPayment",
+				"app/WorkerPayment.php"
+			],
+			[
+				"payment_t",
+				"database/migrations/2019_10_14_120809_create_payments_table.php"
+			],
+			[
+				"admin/client-",
+				"resources/views/admin/client-payments.blade.php"
+			],
+			[
+				"admin_pro",
+				"database/migrations/2019_08_13_103720_create_admin_profiles_table.php"
+			],
+			[
+				"admin_profile",
+				"database/migrations/2019_08_13_103720_create_admin_profiles_table.php"
+			],
+			[
+				"admin_profiles_",
+				"database/migrations/2019_08_13_103720_create_admin_profiles_table.php"
+			],
+			[
+				"Roles",
+				"database/seeds/RolesTableSeeder.php"
+			],
+			[
+				"admin_profiles",
+				"database/migrations/2019_08_13_103720_create_admin_profiles_table.php"
+			],
+			[
+				"admin.bl",
+				"resources/views/layouts/admin.blade.php"
+			],
+			[
+				"adminuser-c",
+				"resources/views/admin/adminuser-create.blade.php"
+			],
+			[
+				"admins_ta",
+				"database/migrations/2019_08_13_103715_create_admins_table.php"
+			],
+			[
+				"RolesTable",
+				"database/seeds/RolesTableSeeder.php"
+			],
+			[
+				"reles_t",
+				"database/migrations/2019_08_13_095659_create_roles_table.php"
+			],
+			[
+				"Role",
+				"app/Role.php"
+			],
+			[
+				"admins.bl",
+				"resources/views/admin/admins.blade.php"
+			],
+			[
+				"AdminProfile",
+				"app/AdminProfile.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dev/cinco-estrellas/cinco-estrellas.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
